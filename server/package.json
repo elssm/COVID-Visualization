@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "description": "server app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.0",
+    "express": "4.x"
+  }
+}

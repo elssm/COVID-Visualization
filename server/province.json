@@ -1,0 +1,247 @@
+[
+  {
+    "provinceName": "南海诸岛",
+    "confirmedCount": 0,
+    "curedCount": 0,
+    "deadCount": 0,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "香港",
+    "confirmedCount": 7623,
+    "curedCount": 6266,
+    "deadCount": 120,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "台湾",
+    "confirmedCount": 740,
+    "curedCount": 606,
+    "deadCount": 7,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "上海",
+    "confirmedCount": 1415,
+    "curedCount": 1319,
+    "deadCount": 7,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "四川",
+    "confirmedCount": 838,
+    "curedCount": 794,
+    "deadCount": 3,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "广东",
+    "confirmedCount": 2018,
+    "curedCount": 1973,
+    "deadCount": 8,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "福建",
+    "confirmedCount": 502,
+    "curedCount": 469,
+    "deadCount": 1,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "内蒙古",
+    "confirmedCount": 342,
+    "curedCount": 314,
+    "deadCount": 1,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "陕西",
+    "confirmedCount": 502,
+    "curedCount": 482,
+    "deadCount": 3,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "云南",
+    "confirmedCount": 224,
+    "curedCount": 210,
+    "deadCount": 2,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "黑龙江",
+    "confirmedCount": 960,
+    "curedCount": 936,
+    "deadCount": 13,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "山东",
+    "confirmedCount": 858,
+    "curedCount": 841,
+    "deadCount": 7,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "江苏",
+    "confirmedCount": 684,
+    "curedCount": 675,
+    "deadCount": 0,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "河南",
+    "confirmedCount": 1295,
+    "curedCount": 1266,
+    "deadCount": 22,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "北京",
+    "confirmedCount": 956,
+    "curedCount": 940,
+    "deadCount": 9,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "浙江",
+    "confirmedCount": 1297,
+    "curedCount": 1290,
+    "deadCount": 1,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "天津",
+    "confirmedCount": 302,
+    "curedCount": 295,
+    "deadCount": 3,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "山西",
+    "confirmedCount": 222,
+    "curedCount": 220,
+    "deadCount": 0,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "湖北",
+    "confirmedCount": 68149,
+    "curedCount": 63636,
+    "deadCount": 4512,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "重庆",
+    "confirmedCount": 590,
+    "curedCount": 583,
+    "deadCount": 6,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "广西",
+    "confirmedCount": 264,
+    "curedCount": 261,
+    "deadCount": 2,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "湖南",
+    "confirmedCount": 1020,
+    "curedCount": 1016,
+    "deadCount": 4,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "安徽",
+    "confirmedCount": 992,
+    "curedCount": 986,
+    "deadCount": 6,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "新疆",
+    "confirmedCount": 980,
+    "curedCount": 977,
+    "deadCount": 3,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "江西",
+    "confirmedCount": 935,
+    "curedCount": 934,
+    "deadCount": 1,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "河北",
+    "confirmedCount": 373,
+    "curedCount": 367,
+    "deadCount": 6,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "辽宁",
+    "confirmedCount": 289,
+    "curedCount": 287,
+    "deadCount": 2,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "甘肃",
+    "confirmedCount": 182,
+    "curedCount": 180,
+    "deadCount": 2,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "海南",
+    "confirmedCount": 171,
+    "curedCount": 165,
+    "deadCount": 6,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "吉林",
+    "confirmedCount": 157,
+    "curedCount": 155,
+    "deadCount": 2,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "贵州",
+    "confirmedCount": 147,
+    "curedCount": 145,
+    "deadCount": 2,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "宁夏",
+    "confirmedCount": 75,
+    "curedCount": 75,
+    "deadCount": 0,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "澳门",
+    "confirmedCount": 46,
+    "curedCount": 46,
+    "deadCount": 0,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "青海",
+    "confirmedCount": 18,
+    "curedCount": 18,
+    "deadCount": 0,
+    "countryName": "中国"
+  },
+  {
+    "provinceName": "西藏",
+    "confirmedCount": 1,
+    "curedCount": 1,
+    "deadCount": 0,
+    "countryName": "中国"
+  }
+]
