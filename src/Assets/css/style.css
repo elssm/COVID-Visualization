@@ -1,0 +1,114 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    display: flex;
+    border-bottom: 1px solid #ccc;
+    position: relative;
+}
+
+.navItem{
+    width: 88px;
+    height: 44px;
+    text-align: center;
+    line-height: 44px;
+    font-size: 16px;
+}
+
+.navItem.active{
+    font-weight: 900;
+}
+
+.nav .bar{
+    position: absolute;
+    width: 44px;
+    height: 5px;
+    background-color: orangered;
+    bottom: 0px;
+    transition: .5s ease;
+}
+
+.content{
+    width: 1500px;
+    display: flex;
+    height: calc(100vh-45px);
+    transition: 0.8s ease;
+}
+
+.contentItem{
+    width: 375px;
+} */
+
+.new .banner img{
+    width: 100%;
+    height: 70%;
+}
+
+.new .banner h1{
+    font-size: 30px;
+    padding: 0 15px;
+    height: 20px;
+    line-height: 70px;
+}
+
+.newContent{
+    height: 100%;
+    display: flex;
+}
+
+.newContent .line{
+    width: 2px;
+    height: 3000px;
+    background-color: #ddd;
+    margin: 0 30px;
+
+}
+
+.newContent .newList .newsListItem{
+    background-color: #ccc;
+    border-radius: 10px;
+    margin: 10px 10px 10px 0px;
+    padding: 10px;
+    position: relative;
+}
+
+.newContent .newList .newsListItem::before{
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid transparent;
+    border-right: 10px solid #ccc;
+    position: absolute;
+    top:30px;
+    left: -20px;
+
+}
+
+.newContent .newList .newsListItem::after{
+    content: "";
+    width: 10px;
+    height: 10px;
+    border: 4px solid red;
+    border-radius: 9px;
+    position: absolute;
+    top: 30px;
+    left: -40px;
+}
+
+.newContent .newList{
+    flex: 1;
+} 
+
+/* .contentItem2{
+    width: 500px;
+    height: 3000px;
+    background: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+} */
