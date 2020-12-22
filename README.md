@@ -4,6 +4,19 @@
 
 ### 项目基于React+Echarts+axios
 
+## 项目预览
+
+### 疫情地图
+![疫情地图](https://github.com/elssm/COVID-Visualization/blob/main/photo/1.png)
+### 最新进展
+![最新进展](https://github.com/elssm/COVID-Visualization/blob/main/photo/2.png)
+### 云南疫情
+![云南疫情](https://github.com/elssm/COVID-Visualization/blob/main/photo/3.png)
+### 全球疫情
+![全球疫情](https://github.com/elssm/COVID-Visualization/blob/main/photo/4.png)
+### 其他信息
+![其他信息](https://github.com/elssm/COVID-Visualization/blob/main/photo/5.png)
+
 - spider对各大平台疫情数据进行爬取并存入csv文件，方便后续对数据进行分析
 
   API接口如下
